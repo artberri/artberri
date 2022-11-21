@@ -2,7 +2,7 @@
 
 # I'm Alberto Varela, a full stack developer based in Bilbao
 
-- :computer: I’m currently working at [@Genially](https://github.com/Genially) as Product Developer and Tech Lead
+- :computer: I’m currently working at [Paired]([https://github.com/Genially](https://www.paired.com/)) as Senior Software Engineer to make couple relationships happier and healthier.
 - :love_letter: You can reach me via [@artberri](https://twitter.com/artberri) on Twitter or write me an email to [hello@albertovarela.net](mailto:hello@albertovarela.net)
 - :family_man_woman_girl_girl: Father of two brave twins
 - ⚡ My website: [albertovarela.net](https://www.albertovarela.net/)
